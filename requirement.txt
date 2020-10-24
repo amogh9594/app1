@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+scipy
+plotly
+requests
+datetime
+ipywidgets
+voila
+voila-vuetify
+voila-gridstack
